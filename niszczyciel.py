@@ -1,3 +1,6 @@
+# made by kabolek
+# easy to edit. feel free to edit
+
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox
